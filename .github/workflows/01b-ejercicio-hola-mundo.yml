@@ -1,5 +1,5 @@
 
-name: 01a hola mundo
+name: 01b  hola Cros
 on:
   workflow_dispatch:
   push:
@@ -7,5 +7,5 @@ jobs:
   hola-mundo:
     runs-on: ubuntu-latest
     steps:
-    - name: Hola mundo
-      run: echo "Hola mundo"
+    - name: Hola Cris
+      run: echo "Hola Cris"
